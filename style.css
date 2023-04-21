@@ -19,3 +19,17 @@ p {
   font-size: 20px;
   font-weight: 700;
 }
+.card-header {
+  background-color: #34b7a7;
+}
+p {
+  border-radius: 10px;
+  background-color: #d0f3f0;
+}
+h4 {
+  border-radius: 10px;
+  border: 2px;
+}
+a {
+  text-decoration: none;
+}
